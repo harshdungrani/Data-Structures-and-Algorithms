@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms
+# Data Structures and Algorithms in Java
 
 AVL.java: Program to create an AVL tree and print the rotation used.
 
